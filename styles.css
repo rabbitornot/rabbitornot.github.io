@@ -129,6 +129,70 @@ footer {
   gap: 0.75rem;
 }
 
+.flashcard-panel {
+  display: grid;
+  gap: 1rem;
+  justify-items: center;
+}
+
+.flashcard {
+  width: min(460px, 100%);
+  min-height: 220px;
+  perspective: 1500px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.flashcard-face {
+  width: 100%;
+  min-height: 220px;
+  border-radius: 24px;
+  padding: 1.6rem;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  backface-visibility: hidden;
+  position: absolute;
+  inset: 0;
+  transition: transform 0.6s ease;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  border: 1px solid var(--border);
+  box-shadow: 0 20px 40px rgba(15, 30, 80, 0.09);
+  background: white;
+}
+
+.flashcard-front {
+  transform: rotateY(0deg);
+}
+
+.flashcard-back {
+  transform: rotateY(180deg);
+  background: #0c5db3;
+  color: white;
+}
+
+.flashcard.flipped .flashcard-front {
+  transform: rotateY(-180deg);
+}
+
+.flashcard.flipped .flashcard-back {
+  transform: rotateY(0deg);
+}
+
+.flashcard-controls {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.flashcard-hint {
+  color: var(--muted);
+  margin: 0;
+}
+
 button {
   border: none;
   border-radius: 999px;
