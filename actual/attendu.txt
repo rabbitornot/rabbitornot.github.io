@@ -1,0 +1,494 @@
+Oui. Voici une **fiche complète**, basée sur les attendus officiels de l'Éducation nationale pour la **question de grammaire de l'oral du bac de français**. Les notions ci-dessous couvrent l'ensemble des objets d'étude du programme de première et la terminologie grammaticale officielle. ([Éduscol][1])
+
+---
+
+# FICHE ULTIME – GRAMMAIRE À MAÎTRISER POUR L'ORAL DU BAC DE FRANÇAIS
+
+## I. Les classes grammaticales
+
+### Les mots variables
+
+* Nom
+* Déterminant
+
+  * article défini
+  * article indéfini
+  * article partitif
+  * déterminant démonstratif
+  * déterminant possessif
+  * déterminant interrogatif
+  * déterminant exclamatif
+  * déterminant indéfini
+  * déterminant numéral
+* Adjectif qualificatif
+* Pronom
+
+  * personnel
+  * possessif
+  * démonstratif
+  * relatif
+  * interrogatif
+  * indéfini
+* Verbe
+
+### Les mots invariables
+
+* Adverbe
+* Préposition
+* Conjonction de coordination
+* Conjonction de subordination
+* Interjection
+
+---
+
+# II. Les fonctions grammaticales
+
+## Autour du verbe
+
+* Sujet
+* Sujet inversé
+* Sujet réel / sujet apparent
+* Attribut du sujet
+* COD
+* COI
+* COS
+* Complément circonstanciel
+* Complément d'agent
+* Attribut du COD
+
+## Dans le groupe nominal
+
+* Épithète
+* Épithète détachée
+* Apposition
+* Complément du nom
+* Complément de l'adjectif
+* Complément de l'antécédent
+
+---
+
+# III. Les groupes
+
+* Groupe nominal (GN)
+* Groupe verbal (GV)
+* Groupe adjectival
+* Groupe adverbial
+* Groupe prépositionnel
+
+Savoir identifier :
+
+* noyau
+* expansions
+* déterminants
+
+---
+
+# IV. Les types de phrases
+
+## Selon l'intention
+
+* Déclarative
+* Interrogative
+* Injonctive
+* Exclamative
+
+## Selon la forme
+
+* Affirmative
+* Négative
+
+---
+
+# V. Les formes de phrase
+
+* Active
+* Passive
+* Impersonnelle
+* Emphatique
+
+  * dislocation
+  * présentatif
+* Neutre
+
+---
+
+# VI. La négation
+
+Différentes formes :
+
+* ne...pas
+* ne...plus
+* ne...jamais
+* ne...guère
+* ne...point
+* ne...personne
+* ne...rien
+* ne...aucun
+
+Savoir distinguer
+
+* négation totale
+* négation partielle
+
+---
+
+# VII. Les propositions
+
+## Proposition indépendante
+
+* simple
+* coordonnée
+* juxtaposée
+
+## Proposition principale
+
+## Proposition subordonnée
+
+### Relative
+
+Introduite par
+
+* qui
+* que
+* dont
+* où
+* lequel...
+
+Fonctions
+
+* complément du nom
+* sujet
+* COD...
+
+### Conjonctive
+
+Introduite par
+
+* que
+* lorsque
+* puisque
+* parce que
+* si
+* afin que
+* bien que...
+
+Fonctions
+
+* sujet
+* COD
+* circonstancielle
+
+### Interrogative indirecte
+
+Ex.
+
+> Je me demande **pourquoi il vient.**
+
+### Infinitive
+
+Ex.
+
+> J'entends les oiseaux chanter.
+
+### Participiale
+
+Ex.
+
+> Le soleil étant levé...
+
+---
+
+# VIII. Les compléments circonstanciels
+
+Ils expriment
+
+* temps
+* lieu
+* cause
+* conséquence
+* but
+* concession
+* opposition
+* comparaison
+* condition
+* manière
+* moyen
+
+---
+
+# IX. Coordination – Juxtaposition – Subordination
+
+## Coordination
+
+Conjonctions :
+
+* mais
+* ou
+* et
+* donc
+* or
+* ni
+* car
+
+## Juxtaposition
+
+Ponctuation
+
+* ,
+* ;
+* :
+
+## Subordination
+
+Présence d'un mot subordonnant.
+
+---
+
+# X. Les relatives
+
+Savoir reconnaître
+
+* antécédent
+* pronom relatif
+* fonction du pronom relatif
+
+Exemple :
+
+> L'homme **qui parle**.
+
+* antécédent : homme
+* relatif : qui
+* fonction : sujet
+
+---
+
+# XI. Les temps et les modes
+
+## Les modes personnels
+
+Indicatif
+
+* présent
+* imparfait
+* passé simple
+* passé composé
+* plus-que-parfait
+* futur simple
+* futur antérieur
+
+Subjonctif
+
+* présent
+* passé
+
+Conditionnel
+
+* présent
+* passé
+
+Impératif
+
+* présent
+
+---
+
+## Les modes impersonnels
+
+* infinitif
+* participe
+* gérondif
+
+---
+
+# XII. Les valeurs des temps
+
+## Présent
+
+* énonciation
+* vérité générale
+* narration
+* habitude
+* futur proche
+* passé récent
+
+## Imparfait
+
+* description
+* habitude
+* durée
+* arrière-plan
+
+## Passé simple
+
+* action brève
+* premier plan
+
+## Passé composé
+
+* action achevée
+* lien avec le présent
+
+## Plus-que-parfait
+
+* antériorité
+
+## Futur
+
+* projection
+* ordre
+* hypothèse
+
+## Conditionnel
+
+* futur dans le passé
+* hypothèse
+* atténuation
+
+## Subjonctif
+
+* doute
+* volonté
+* souhait
+* nécessité
+* sentiment
+
+---
+
+# XIII. Les discours rapportés
+
+* Discours direct
+* Discours indirect
+* Discours indirect libre
+* Discours narrativisé
+
+Savoir transformer l'un en l'autre.
+
+---
+
+# XIV. La concordance des temps
+
+À connaître :
+
+* présent → présent
+* passé → imparfait
+* futur → conditionnel
+* passé composé → plus-que-parfait
+
+Les principes de concordance des temps sont explicitement travaillés dans le programme. ([Éduscol][1])
+
+---
+
+# XV. Les relations logiques
+
+* addition
+* opposition
+* concession
+* cause
+* conséquence
+* but
+* condition
+* comparaison
+* alternative
+
+Savoir reconnaître les connecteurs logiques.
+
+---
+
+# XVI. Les expansions du nom
+
+* adjectif épithète
+* complément du nom
+* proposition subordonnée relative
+
+---
+
+# XVII. Les procédés syntaxiques
+
+* accumulation
+* énumération
+* parallélisme
+* anaphore syntaxique
+* répétition
+* inversion
+* ellipse
+* gradation
+* dislocation
+* mise en relief
+* présentatif (« c'est... qui », « voici », « voilà »)
+
+---
+
+# XVIII. L'interrogation
+
+## Directe
+
+> Que fais-tu ?
+
+## Indirecte
+
+> Je me demande ce que tu fais.
+
+Formes :
+
+* totale
+* partielle
+
+---
+
+# XIX. Les pronoms relatifs
+
+Variables :
+
+* lequel
+* laquelle
+* lesquels
+* lesquelles
+
+Invariables :
+
+* qui
+* que
+* quoi
+* dont
+* où
+
+Savoir donner leur fonction.
+
+---
+
+# XX. Analyse grammaticale complète d'une phrase
+
+Le jour de l'oral, il faut être capable de procéder dans cet ordre :
+
+1. Identifier le verbe principal.
+2. Identifier le sujet.
+3. Déterminer le type et la forme de la phrase.
+4. Délimiter les propositions.
+5. Identifier leur nature.
+6. Donner leur fonction.
+7. Identifier les groupes grammaticaux.
+8. Identifier les fonctions des mots importants.
+9. Identifier le temps, le mode et la valeur du verbe.
+10. Justifier chaque réponse avec la terminologie grammaticale officielle.
+
+---
+
+# Les questions qui tombent le plus souvent à l'oral
+
+Les examinateurs interrogent très fréquemment sur :
+
+* les propositions subordonnées relatives ;
+* les propositions subordonnées conjonctives ;
+* la fonction d'une subordonnée ;
+* la nature et la fonction d'un pronom relatif ;
+* les fonctions (COD, COI, attribut, complément circonstanciel...) ;
+* les valeurs des temps ;
+* les types et formes de phrase ;
+* la négation ;
+* la coordination, la juxtaposition et la subordination ;
+* les expansions du nom ;
+* les discours rapportés. ([Éduscol][1])
+
+Cette fiche couvre pratiquement toutes les notions grammaticales susceptibles d'être mobilisées dans la **question de grammaire de l'oral du bac de français**, conformément aux ressources officielles d'Éduscol et à la terminologie grammaticale de l'Éducation nationale.
+
+[1]: https://eduscol.education.gouv.fr/5793/programmes-et-ressources-en-francais-voie-gt?menu_id=2117&utm_source=chatgpt.com "Programmes et ressources en français - voie GT | éduscol | Ministère de l'Éducation nationale | Direction générale de l'enseignement scolaire"
